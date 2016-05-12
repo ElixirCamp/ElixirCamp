@@ -98,3 +98,14 @@ p.updates {
 	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
+
+h2.strong {
+	text-align: center;
+}
+
+h2 a {
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
