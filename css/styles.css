@@ -2,10 +2,11 @@
 
 body {
 	margin: 0;
-	padding: 1em;
+	padding: 0;
 	background-color: #4e2a8e;
+	font-size: 14px;
+  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
-	
 
 p {
   color: white;
@@ -20,10 +21,11 @@ p a {
 	text-decoration: none;
 } 
 
-.body {
+.page {
 	text-align: center;
 	display: block;
-	margin-top: 1%;
+	margin-top: 3em;
+	padding: 1em;
 }
 
 
@@ -69,7 +71,7 @@ p.coc {
  
  
 #logo {
-	width: 200px;
+	width: 160px;
 	height: auto;
 	margin: 0 auto;
 	padding: 1em;
