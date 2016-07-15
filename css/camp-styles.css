@@ -221,3 +221,13 @@ h4.block-title {
 	padding-left: .5em;
 	text-align: center;
 }
+
+
+.session {
+	display: block;
+}
+
+.scheduling .slot,
+.session .scheduling .date {
+	display: block!important;
+}
